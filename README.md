@@ -1,4 +1,4 @@
-Mode opératoire pour le script 
+**Mode opératoire pour le script**
 
 # Remplacez <DOMAINNAME> par votre nom de domaine
 .\myAudit.ps1 -ADNTHashes <DOMAINNAME>-hashes.txt -HashDictionary <FICHIER TEXTE HIBP>  | Fichier sortant <DOMAINNAME>-PasswordAudit.csv
